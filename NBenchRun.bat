@@ -1,0 +1,2 @@
+DEL "%~dp0Perf\*.md"
+"C:\Users\Admin\.nuget\packages\nbench.runner\1.2.2\tools\netcoreapp2.1\NBench.Runner.exe" "%~dp0ProjectManagerNBench\bin\Debug\netcoreapp2.1\ProjectManagerNBench.dll" output-directory="%~dp0Perf"

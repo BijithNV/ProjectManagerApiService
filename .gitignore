@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ProjectManagerApi/bin/Debug/netcoreapp2.1
+/ProjectManagerApi/obj
+/ProjectManagerApI.Tests/bin/Debug/netcoreapp2.1
+/ProjectManagerApI.Tests/obj
+/ProjectManagerBusinessLayer/bin/Debug/netcoreapp2.1
+/ProjectManagerBusinessLayer/obj
+/ProjectManagerBusinessLayer.Tests/bin/Debug/netcoreapp2.1
+/ProjectManagerBusinessLayer.Tests/obj
+/ProjectManagerDAL/bin/Debug/netcoreapp2.1
+/ProjectManagerDAL/obj
+/ProjectManagerEntities/bin/Debug/netcoreapp2.1
+/ProjectManagerEntities/obj
+/ProjectManagerNBench/bin/Debug/netcoreapp2.1
+/ProjectManagerNBench/obj
+/TestResults
+/CodeCoverage
